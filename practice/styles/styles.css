@@ -2,7 +2,38 @@
     font-size: 1.5em;
     line-height: 1.5em;
 }
-#active {
-    background-color: purple;
-    color: gold;
+a:hover {
+    background-color: white;
+    color: steelblue;
+}
+img {
+    width: 80%;
+}
+p {
+    width: 80%;
+}
+a {
+    font-size: 1.5em;
+}
+
+h1 {
+    text-align: center;
+}
+nav, footer {
+    text-align: center;
+}
+img {
+    display: block;
+    width: 80%;
+    margin: auto;
+}
+main p {
+    width: 80%;
+    margin:  auto;
+    text-align: center;
+}
+footer {
+    width: 80%;
+    margin: auto;
+    text-align: justify;
 }
