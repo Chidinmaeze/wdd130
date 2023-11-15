@@ -195,8 +195,7 @@
   background-color: gold; 
   grid-column:5/7 ;
   grid-row: 3/7;
-  margin-top: -100px;
-  margin-left: -700px;
+
   z-index: 1;
 } 
 .blue6 {
@@ -209,7 +208,6 @@
   margin-left: -150px;
   z-index: 0;
 } 
-
 
 /* Do not make any changes below here */
 .activity {
