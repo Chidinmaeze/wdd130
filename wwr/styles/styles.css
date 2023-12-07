@@ -297,8 +297,31 @@
      text-align: center;
      background-color: #6f7364;
  }
- 
+ p1 {
+    background-color: forestgreen;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: whitesmoke;
+ }
   
+ .container {
+    display: grid;
+    align-items: center; 
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 10px;
+   }
+   
+   img {
+     max-width: 100%;
+     max-height:100%;
+   }
+   
+   .text {
+     grid-column: 2/4;
+     
+   }
+
+
+ }
  @media screen and (max-width: 900px) {
      #hero, .home-grid {
          display: block;
