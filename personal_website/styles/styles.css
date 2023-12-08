@@ -69,4 +69,12 @@ nav a{
     column-gap: 10px;
     align-items: center;
    }
+
+   <style>
+      
+        
+   header img {
+     float: left;
+   }
+</style>
    
