@@ -50,10 +50,7 @@ nav a{
     padding-bottom: 10px;
     z-index: 1;
     
-    footer p1 {
-        color: #343331;
-    }
-   
+       
    }
    .colors {
     width: 100%;
@@ -78,7 +75,9 @@ nav a{
   }
    
 
+ p2 {
+    padding:10em; 
+ }
 
-
-   
+ 
    
