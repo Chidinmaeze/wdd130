@@ -64,11 +64,14 @@ nav a{
     column-gap: 10px;
     align-items: center;
    }
-   .container3 {
-    display: grid;
+
+   .image3 {
+    display:flex;
     column-gap: 10px;
-    align-items: center;
+    align-content: center;
+    
    }
+ 
 
   a {
     color:#343331;
